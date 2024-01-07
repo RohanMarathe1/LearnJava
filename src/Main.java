@@ -1,7 +1,6 @@
 public class Main {
 
     public static void main(String[] args){
-
         Looping looping = new Looping() ;
         looping.replaceWithLoop();
 
@@ -13,6 +12,5 @@ public class Main {
 
         Loop loop = new Loop() ;
         loop.replaceChar();
-
     }
 }
