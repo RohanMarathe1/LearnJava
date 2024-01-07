@@ -14,6 +14,5 @@ public class StringSwapper {
         String swappedString = lastChar + middleString + firstChar;
 
         return swappedString;
-
     }
 }
