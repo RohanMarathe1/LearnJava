@@ -8,7 +8,7 @@ public class Main {
         numberWar.sumOfEvenOdd();
 
         StringSwapper stringSwapper = new StringSwapper() ;
-        System.out.println(stringSwapper.swapFirstAndLast("ABCD"));
+        System.out.println(stringSwapper.swapFirstAndLast("ROHAN"));
 
         Loop loop = new Loop() ;
         loop.replaceChar();
