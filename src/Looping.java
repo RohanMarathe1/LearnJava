@@ -1,4 +1,5 @@
- public class Looping{
+//If the char a is within a string when looping though then the code will replace a with a $.
+public class Looping{
      public void replaceWithLoop(){
          String st = "abcdsfrt";
 
@@ -10,9 +11,7 @@
               if (ch == 'a') {
                   st = st.replace('a', '$');
                   System.out.println(st);
-              }else{ continue;
-
-                  }
+              }else continue;
 
               }
           }
