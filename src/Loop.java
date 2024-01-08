@@ -1,6 +1,5 @@
+//This code is a starting point to the Looping.Java code. This code is replacing char a to $.
 public class Loop {
-
-    // Replacing OLD Char TO NEW CHAR from string
     public void replaceChar() {
         String st = "abcdaaart";
         st = st.replace('a', '$');
