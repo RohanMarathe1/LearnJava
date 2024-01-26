@@ -1,4 +1,4 @@
-//Calculating the total number of legs of the animals in an farm
+//Calculating the total number of legs of the animals in a farm
 public class FarmProblem {
     public static void main(String[] args) {
         int chickens = 2;

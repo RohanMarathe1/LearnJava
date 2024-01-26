@@ -12,5 +12,7 @@ public class Main {
 
         Loop loop = new Loop() ;
         loop.replaceChar();
+
+
     }
 }
