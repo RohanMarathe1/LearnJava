@@ -13,6 +13,9 @@ public class Main {
         Loop loop = new Loop() ;
         loop.replaceChar();
 
+      FarmProblem farmProblem = new FarmProblem() ;
+      farmProblem.calc_num_animals();
+
 
     }
 }
